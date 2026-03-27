@@ -1,7 +1,5 @@
  <h1 align="center">Hi 👋, I'm Pradeep Kumar</h1>
 
- <h2>🔹 ArchTrix – GitHub Profile</h2>
-
 <p><strong>ArchTrix</strong> – A platform focused on sharing real-world software architecture and development practices from 15+ years of industry experience.</p>
 
 <ul>
