@@ -1,11 +1,22 @@
  <h1 align="center">Hi 👋, I'm Pradeep Kumar</h1>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
-- 📫 How to reach me: axiftaj@gmail.com
-- 😄 My website: https://thetechbrothers.net
-- ⚡ Fun fact: I'm comming to teen
+ ArchTrix – A platform focused on sharing real-world software architecture and development practices from 15+ years of industry experience.
+
+👨‍💻 Software Architect specializing in scalable, maintainable, and production-ready systems
+📱 Hands-on implementations in:
+Android (Kotlin, MVVM, Jetpack Compose)
+Java & backend development
+Microservices architecture & system design
+AWS & cloud integrations
+🎥 Complements my YouTube channel with practical code examples and real project use cases
+⚙️ Focus on real-world solutions:
+Architecture decisions
+Best practices
+Common challenges and fixes
+🚀 Designed for developers who want to:
+Move beyond basic coding
+Master system design
+Build scalable, production-grade applications
   
 ### Connect with me:
 <div id="badges">
@@ -22,8 +33,3 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
-
-
-
-<br>
-⭐️ From [axiftaj](https://github.com/axiftaj)
