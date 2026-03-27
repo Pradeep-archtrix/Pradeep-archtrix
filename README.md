@@ -1,23 +1,39 @@
  <h1 align="center">Hi 👋, I'm Pradeep Kumar</h1>
 
- ArchTrix – A platform focused on sharing real-world software architecture and development practices from 15+ years of industry experience.
+ <h2>🔹 ArchTrix – GitHub Profile</h2>
 
-👨‍💻 Software Architect specializing in scalable, maintainable, and production-ready systems
-📱 Hands-on implementations in:
-Android (Kotlin, MVVM, Jetpack Compose)
-Java & backend development
-Microservices architecture & system design
-AWS & cloud integrations
-🎥 Complements my YouTube channel with practical code examples and real project use cases
-⚙️ Focus on real-world solutions:
-Architecture decisions
-Best practices
-Common challenges and fixes
-🚀 Designed for developers who want to:
-Move beyond basic coding
-Master system design
-Build scalable, production-grade applications
+<p><strong>ArchTrix</strong> – A platform focused on sharing real-world software architecture and development practices from 15+ years of industry experience.</p>
+
+<ul>
+  <li>👨‍💻 <strong>Software Architect</strong> specializing in scalable, maintainable, and production-ready systems</li>
   
+  <li>📱 <strong>Hands-on implementations in:</strong>
+    <ul>
+      <li>Android (Kotlin, MVVM, Jetpack Compose)</li>
+      <li>Java & backend development</li>
+      <li>Microservices architecture & system design</li>
+      <li>AWS & cloud integrations</li>
+    </ul>
+  </li>
+
+  <li>🎥 Complements my YouTube channel with practical code examples and real project use cases</li>
+
+  <li>⚙️ <strong>Focus on real-world solutions:</strong>
+    <ul>
+      <li>Architecture decisions</li>
+      <li>Best practices</li>
+      <li>Common challenges and fixes</li>
+    </ul>
+  </li>
+
+  <li>🚀 <strong>Designed for developers who want to:</strong>
+    <ul>
+      <li>Move beyond basic coding</li>
+      <li>Master system design</li>
+      <li>Build scalable, production-grade applications</li>
+    </ul>
+  </li>
+</ul>  
 ### Connect with me:
 <div id="badges">
   <a href="https://github.com/Pradeep-archtrix">
