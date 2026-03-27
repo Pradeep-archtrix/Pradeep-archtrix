@@ -34,7 +34,9 @@
     </ul>
   </li>
 </ul>  
+
 ### Connect with me:
+
 <div id="badges">
   <a href="https://github.com/Pradeep-archtrix">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
